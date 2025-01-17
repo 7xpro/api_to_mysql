@@ -55,7 +55,7 @@ def assigndata(location,current,d):
     
 if __name__=="__main__":
     
-    API_key="1fc9ef4b24dc4ec1b122417251301"
+    API_key="1fc9ef4b24dc4ec1122417251301"
     city="raipur"
     url="http://api.weatherapi.com/v1/current.json"
     username="root"
