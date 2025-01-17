@@ -74,9 +74,9 @@ def getdata(product_detail,data):
 
 if __name__== "__main__":
 
-    url='https://proxy.scrapeops.io/v1/'
+    url='https://proxy.scrapeops.io/'
     params={
-        'api_key': '6c284ef7-4a23-4cbd-a6e4-aeb0562dc2e1',
+        'api_key': '6c284ef7-4a23-4c-a6e4-aeb0562dc2e1',
         'url': 'https://www.amazon.com/s?k=gaming'
     }
     
